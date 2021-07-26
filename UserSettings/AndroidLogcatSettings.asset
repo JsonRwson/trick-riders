@@ -1,0 +1,239 @@
+{
+    "m_SelectedDeviceId": "XTX7N18807005632",
+    "m_SelectedPackage": {
+        "deviceId": "XTX7N18807005632",
+        "name": "com.DefaultCompany.TrickRiders",
+        "processId": 486,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 14402,
+            "exited": true
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 15155,
+            "exited": true
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 15637,
+            "exited": true
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 16277,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 1131,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 8077,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 1685,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 3201,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 506,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 3443,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 8857,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 18373,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 26503,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 27314,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 28020,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 14696,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 16045,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 16821,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 1438,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 2630,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 5501,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 6363,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 21985,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 28877,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 30481,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 31908,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 12779,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 30626,
+            "exited": false
+        },
+        {
+            "deviceId": "XTX7N18807005632",
+            "name": "com.DefaultCompany.TrickRiders",
+            "processId": 486,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
